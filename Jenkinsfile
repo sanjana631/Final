@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = 'Sanjana2005'
-        IMAGE_NAME = 'hlooo/new_docker_image'
+        IMAGE_NAME = 'sanjanadass/new_docker_image'
 
     stages {
 
