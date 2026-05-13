@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKERHUB_CREDENTIALS = 'Sanjana2005'
+        DOCKERHUB_CREDENTIALS = 'Sanjana'
         IMAGE_NAME = 'hlooo/new_docker_image'
 
     stages {
